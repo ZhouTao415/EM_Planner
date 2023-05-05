@@ -1,5 +1,5 @@
 # EM_Planner
-This is an autonomous vehicle's planning algorithm. This algorithm is based on APOLLO emplanner, based on sampling.
+This is an autonomous vehicle's planning algorithm. This algorithm is based on APOLLO EM-Planner, based on sampling.
 
 转自 [忠厚老实的老王](https://GitHub.com/VincentWong3)
 ## Chapter 1: Foundations of Mathematics
